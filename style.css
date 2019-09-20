@@ -1,8 +1,6 @@
 /* https://www.youtube.com/watch?v=ZYV6dYtz4HA */
 
-.wrapper{
-  width: 100%;
-}
+
 
 p {
   padding: 0px 10px 20px;
@@ -80,7 +78,7 @@ body {
 
 
 
-
+/* Funktion för databar*/
 .bar{
     background-color: #EEE;
     padding: 2px;
