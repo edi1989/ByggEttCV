@@ -1,3 +1,16 @@
+/* https://www.youtube.com/watch?v=ZYV6dYtz4HA */
+
+.wrapper{
+  width: 100%;
+}
+
+p {
+  padding: 0px 10px 20px;
+  font-family: arial;
+  font-size: 16px;
+  color: #111;
+  line-height: 24px;
+}
 .spacing {
     padding: 20px;
 }
@@ -11,6 +24,7 @@ body {
     font-size: 18px;
     margin-bottom: -13px;
     margin-top: 18px;
+    right: 40vh;
 }
 
 #links {
@@ -43,14 +57,14 @@ body {
 }
 
 #createdistance {
-    padding: 5px;
+    padding: 10px;
 }
 
 #location {
     background: whitesmoke;
     max-width: 100%;
     border-radius: 25px;
-    padding: 23px; 
+    padding: 26px; 
     width: 276px;
     height: auto; 
     font-size: 18px;
@@ -63,9 +77,6 @@ body {
   background: black;
   color: white;
 }
-
-
-
 
 
 
